@@ -4,6 +4,7 @@ Calculator App with Tkinter
 This is a simple calculator application built using Python and Tkinter. It provides a graphical user interface (GUI) for performing basic arithmetic operations, square root, and squaring a number.
 
 #Features:
+
 Basic arithmetic operations: addition, subtraction, multiplication, division
 Square root calculation
 Squaring a number
