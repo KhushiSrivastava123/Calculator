@@ -14,10 +14,13 @@ Visual feedback on button clicks
 
 #Requirements
 
+
 Python 3.x
+
 Tkinter (usually included in standard Python installations)
 
 #How to Use
+
 
 The calculator GUI displays a text entry field at the top where you can enter your mathematical expressions or see the results.
 
@@ -34,4 +37,5 @@ The "√" button calculates the square root of the number in the input field.
 The "x^2" button calculates the square of the number in the input field.
 
 #Contributing
+
 Contributions are welcome! If you find any issues or want to improve the app, feel free to create a pull request or report the problem in the issues section.
